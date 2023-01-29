@@ -1,0 +1,6 @@
+2023/01/28	19:59:35	6e0265de-933f-4b8f-89e4-f431ef820b6f	log event emitted!
+2023/01/28	19:59:46	52cda7ed-bc61-4569-8cee-0b6298e8ea46	log event emitted!
+2023/01/28	19:59:55	c8843db6-86cc-48cc-a11d-84fca7c75df6	log event emitted!
+2023/01/28	20:00:16	31bbe580-51f9-4bbe-9d94-5d2751be076d	log event emitted!
+2023/01/28	20:00:49	a2948bc6-816b-4b2d-9d31-9cc0020752da	log event emitted!
+2023/01/29	16:51:35	88e6f636-5058-48c8-b43b-5d6f0b312915	Log event Emitted !
